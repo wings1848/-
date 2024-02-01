@@ -2,7 +2,9 @@
 
 **I'm wings1848 from China. I am a student and developer who is dedicated to studying computer technology.**
 
-I have some knowledge of Python programming, Linux usage, and OpenStack operation and maintenance. I need to continue learning and improving my knowledge level.  
+I have some knowledge of Python programming, Linux usage, and OpenStack operation and maintenance.   
+I will continuously study and further enhance my knowledge level.
+
 <p align="right">
   <img src="https://pic.imgdb.cn/item/65bbb2ec871b83018a96e492.gif" style="max-height: 100%; width: 20%; height: 20%;">
   <br >
