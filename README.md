@@ -18,8 +18,8 @@ further enhance my knowledge level.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wings1848&show_icons=true&theme=prussian" style="max-width: 100%; height: 120px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wings1848&theme=prussian&layout=compact" style="height: 120px; width: 43%">
+    <img src="https://github-readme-stats.vercel.app/api?username=wings1848&show_icons=true&theme=prussian" style="height: auto; max-width: 33%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wings1848&theme=prussian&layout=compact" style="height: auto; max-width: 46%;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wings1848&theme=react-dark" style="width: 80%; height: 80%;">
   <br >
 </p>
