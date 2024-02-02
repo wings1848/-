@@ -1,9 +1,14 @@
 # Hello World! :tada::tada::tada:
 
-**I'm wings1848 from China. I am a student and developer who is dedicated to studying computer technology.**
+***Ciallo～(∠・ω< )⌒☆***
 
-I have some knowledge of Python programming, Linux usage, and OpenStack operation and maintenance.   
-I will continuously study and further enhance my knowledge level.
+**I'm wings1848(蝶䌻) from China. I am a student and developer who is dedicated to studying   
+computer technology.**
+
+
+I have some knowledge of Python programming, Linux usage, and OpenStack   
+operation and maintenance.I will continuously study and   
+further enhance my knowledge level.
 
 <p align="right">
   <img src=".\images\ctj.gif" style="max-height: 100%; width: 20%; height: 20%;">
