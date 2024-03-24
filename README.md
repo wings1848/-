@@ -2,7 +2,7 @@
 
 ***Ciallo～(∠・ω< )⌒☆***
 
-**I'm wings1848(蝶䌻) from China. I am a student and developer who is dedicated to studying   
+**I'm butterfly_wings(蝶䌻) from China. I am a student and developer who is dedicated to studying   
 computer technology.**
 
 
