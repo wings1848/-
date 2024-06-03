@@ -2,7 +2,7 @@
 
 ***Ciallo～(∠・ω< )⌒☆***
 
-**I'm Wings Butterfly from China. I am a student and developer who is dedicated to studying   
+**I'm Wings Butterfly. I am a student and developer who is dedicated to studying   
 computer technology.**
 
 
